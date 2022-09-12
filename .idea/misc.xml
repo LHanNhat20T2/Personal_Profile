@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayer.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayeraddress.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayergithub.xml" value="0.241" />
+        <entry key="..\:/Profile/app/src/main/res/drawable-v24/thirdlayerphone.xml" value="0.241" />
         <entry key="..\:/Profile/app/src/main/res/drawable/anhthe_boder.xml" value="0.256" />
         <entry key="..\:/Profile/app/src/main/res/drawable/anhthe_circle.xml" value="0.241" />
         <entry key="..\:/Profile/app/src/main/res/drawable/secondlayer.xml" value="0.241" />
